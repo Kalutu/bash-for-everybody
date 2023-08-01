@@ -6,7 +6,6 @@ Welcome to my Bash Projects Repository! This repository contains a collection of
 - [Projects](#projects)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 As a passionate learner of Bash scripting, I use this repository to organize and share my various Bash projects. These projects cover a wide range of topics, from simple scripts to more complex projects that involve automation, system administration, and more.
@@ -15,10 +14,9 @@ Feel free to explore the projects and use the code as you wish. If you have any 
 
 ## Projects
 
-- **Project 1**: [Brief description of project 1]
-- **Project 2**: [Brief description of project 2]
-- **Project 3**: [Brief description of project 3]
-- ...
+- **Questionnaire**
+- **Countdown**
+- And more
 
 Each project folder contains its own README.md file, providing more details about the project, usage instructions, and any dependencies required.
 
@@ -36,4 +34,7 @@ git clone https://github.com/your-username/bash-projects.git
 cd bash-projects/ProjectName
 ```
 3. Read the project's README.md for specific instructions on how to run or use the Bash script.
+   
+## Contributing
+If you would like to contribute to this repository, please open a pull request with your changes. We welcome contributions from programmers of all skill levels.
 
