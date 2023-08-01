@@ -30,9 +30,10 @@ To use the projects in this repository, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/bash-projects.git
-
+```
 2. Navigate to the project folder you're interested in:
 ```bash
 cd bash-projects/ProjectName
+```
 3. Read the project's README.md for specific instructions on how to run or use the Bash script.
 
