@@ -27,7 +27,7 @@ To use the projects in this repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/bash-projects.git
+git clone https://github.com/Kalutu/bash-projects.git
 ```
 2. Navigate to the project folder you're interested in:
 ```bash
