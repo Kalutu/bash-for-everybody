@@ -1,4 +1,4 @@
-# Bash Projects Repository
+# Bash For EveryBody
 Welcome to the Bash For Eveybody repository! This collection includes five handy Bash scripts for various purposes. Feel free to explore and use these scripts to make your life easier.
 
 ## Programs
@@ -9,30 +9,35 @@ The Questionnaire script prompts the user with three questions, collects their r
 
 ```bash
 ./Questionnaire/questionnaire.sh
+```
 
 ### 2. Countdown Timer
 The Countdown Timer script counts down to zero from a given argument (default is 3 seconds).
 
 ```bash
 ./Countdown/countdown.sh [optional_seconds]
+```
 
 ### 3. Bingo Number Generator
 The Bingo Number Generator script generates random Bingo numbers and categorizes them into the B, I, N, G, or O group.
 
 ```bash
 ./Bingo/bingo.sh
+```
 
 ### 4. Fortune Teller
 The Fortune Teller script provides answers to yes-or-no questions with a touch of randomness.
 
 ```bash
 ./Fortune/fortune.sh
+```
 
 ### 5. Program Runner
 The Program Runner script executes the other four scripts in sequence.
 
 ```bash
 ./ProgramRunner/program_runner.sh
+```
 
 ## Installation
 
